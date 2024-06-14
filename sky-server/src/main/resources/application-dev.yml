@@ -15,4 +15,7 @@ sky:
      access-key-id: LTAI5t6VFJnZ5cuNxT4G4MbH
      access-key-secret: 82xnFwHYKAxB7uKZeHpTZRsMa4Ls4H
      bucket-name: ybdd-sky-take-out
+  wechat:
+    appid: wx05dce21082805ea8
+    secret: f00bcae39d50040a910288eb552394af
 
